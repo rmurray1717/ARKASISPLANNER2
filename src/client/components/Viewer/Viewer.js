@@ -25,7 +25,7 @@ class Viewer extends Component {
 
     componentDidMount() {
         // Revit Apartment
-        var documentId = 'urn:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6dmlld2VyLXJvY2tzLXJlYWN0L0FwYXJ0bWVudC1GdXJuaXNoZWQucnZ0';
+        var documentId = 'urn:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6Y2FzYV9oYWJpdGFjaW9uXzIxL0VkaWZpY2lvJTIwY29uJTIwaW5zdGFsYWNpb24lMjBlbGVjdHJpY2EyLnJ2dA';
         Helpers.launchViewer(documentId);         
     }  
 
