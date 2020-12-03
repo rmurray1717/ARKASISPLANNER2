@@ -35,7 +35,7 @@ const tilesData = [
     img: 'images/wall-ac-unit-two.png',
     title: 'Wall type',
     key: '0002',
-    urn: 'urn:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6dmlld2VyLXJvY2tzLXJlYWN0L3dhbGwtdHlwZS12NC5mM2Q'
+    urn: 'urn:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6dW5pZGFkZXNfbWluaXNwbGl0L2NlaWxpbmctY29ybmVyLmYzZA'
   },
   {
     img: 'images/floor-ac-unit.png',
