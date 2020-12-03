@@ -29,7 +29,7 @@ const tilesData = [
     img: 'images/wall-ac-unit-one.png',
     title: 'wall_1_tonnage',
     key: '0001',
-    urn:'urn:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6dmlld2VyLXJvY2tzLXJlYWN0L3dhbGxfMV90b25uYWdlLmYzZA'
+    urn:'urn:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6dW5pZGFkZXNfbWluaXNwbGl0L09VNjA4NUZCTkEuU1RFUA and guid=4dcd3871-a725-4916-aba6-39c48e4ab342'
   },
   {
     img: 'images/wall-ac-unit-two.png',
