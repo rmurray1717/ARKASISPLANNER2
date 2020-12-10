@@ -41,7 +41,7 @@ const tilesData = [
     img: 'images/floor-ac-unit.png',
     title: 'Floor-Exposed-1_Tonnage',
     key: '0003',
-    urn: 'urn:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6dmlld2VyLXJvY2tzLXJlYWN0L0Zsb29yLUV4cG9zZWQtMV9Ub25uYWdlLmYzZA'
+    urn: 'urn:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6dW5pZGFkZXNfbWluaXNwbGl0L3JlY2VwY2lvbi5pZmM'
   }
 ];
 
